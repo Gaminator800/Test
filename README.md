@@ -10,7 +10,7 @@
 
 https://github.com/Gaminator800/Test/assets/17784224/8e269ed8-e484-486f-ba10-5df932c8396e
 
-
+## What you are supposed to do in the game?
 - Jump on the walls
 - Jump on the platforms
 - Push objects to pass each test
