@@ -14,4 +14,4 @@ https://github.com/Gaminator800/Test/assets/17784224/8e269ed8-e484-486f-ba10-5df
 - Jump on the platforms
 - Push objects to pass each test
 - Use the teleporters to go to other places
-- If you fall you fail and will have to try again
+- If you fall, you fail and will have to try again
