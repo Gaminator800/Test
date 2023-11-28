@@ -1,5 +1,6 @@
 # Test
- This is my game prototype which is about testing your skills which is similar to Portal and Mirror Edge.
+ This is my game prototype which is about testing your skill and your will.
+ Which is similar to Portal and Mirror Edge.
 
  ## Feature
 - Movement | WASD
