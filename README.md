@@ -7,7 +7,7 @@
 - Sprint | LEFT SHIFT
 - The player has to adapt in order to succeed.
 
-https://drive.google.com/file/d/1tMGoLcIV0BvOsCKr5MWumye5Uag29mYz/view?usp=sharing
+(https://github.com/Gaminator800/Test/assets/17784224/8e269ed8-e484-486f-ba10-5df932c8396e)
 
 - Jump on the walls
 - Jump on the platforms
